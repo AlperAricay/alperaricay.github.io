@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/0b-9yq3nkyak1.css","style"]
+:HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3dbe685087e51055-s.p.3go3gb1_xu4rn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6a5386fd6038edbe-s.p.3_z45zcoc-xoz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6bd983bd58a87a3d-s.p.1hey5yyym6mz_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/BebasNeue_Regular-s.p.2w6e6n91awk1s.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"game","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"_lIm73dYrR1f2i-ls3k2C"}
